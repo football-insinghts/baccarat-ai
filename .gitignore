@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ui-validation-deps/
+.skill-validation-deps/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+dist/
+ui-preview.png
